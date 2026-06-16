@@ -1,0 +1,7 @@
+﻿incoming/
+backup_originals/
+slips/
+photo_mapping.csv
+latest_id.txt
+__pycache__/
+*.pyc
